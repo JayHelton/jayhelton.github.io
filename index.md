@@ -9,7 +9,7 @@
 <dt>Birthplace</dt>
 <dd>United States</dd>
 <dt>Job</dt>
-<dd>Software Enginer in Identity @ Cisco</dd>
+<dd>Software Engineer in Identity @ Cisco</dd>
 </dl>
 
 | Social    |  |
