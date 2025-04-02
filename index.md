@@ -8,6 +8,8 @@
 <dd>Before Highspeed Internet</dd>
 <dt>Birthplace</dt>
 <dd>United States</dd>
+<dt>Hobbies</dt>
+<dd>Drawing, painting, hiking, and learning new things.</dd>
 <dt>Job</dt>
 <dd>Software Engineer in Identity @ Cisco</dd>
 </dl>
